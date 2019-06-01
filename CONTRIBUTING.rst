@@ -1,6 +1,6 @@
 How to contribute to Flask
 ==========================
-
+i am Srinivas thanks for contributing.
 Thank you for considering contributing to Flask!
 
 Support questions
